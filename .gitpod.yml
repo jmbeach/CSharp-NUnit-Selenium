@@ -1,0 +1,6 @@
+tasks:
+  - init: make && nuget install
+
+vscode:
+  extensions:
+    - patcx.vscode-nuget-gallery@0.0.22:V4PE7ie3WLWSQuT/lC+0Qw==
