@@ -1,4 +1,4 @@
-image: gitpod/workspace-dotnet
+image: gitpod/workspace-dotnet-vnc
 
 tasks:
   - init: make && nuget install
