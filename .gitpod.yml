@@ -1,3 +1,5 @@
+image: gitpod/workspace-dotnet
+
 tasks:
   - init: make && nuget install
 
